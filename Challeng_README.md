@@ -1,6 +1,6 @@
----
-title: "Module 14 Challenge"
----
+Code is based on Jamie's help video and in-class work. 
+
+Github published page: 
 
 <div id="bootcamp"><img style="display: none;" src="https://static.bc-edx.com/data/dl-1-2/m14/lms/img/banner.jpg" alt="lesson banner" />
 
